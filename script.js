@@ -1,4 +1,4 @@
-const button = document.getElementById("sam");
-button.addEventListener("click",()=>{
-    document.body.textContent = "hey sam";
+const button = document.QuerySelectorAll("p");
+button.addeventlister("click",()=>{
+alert("hello");
 })
